@@ -1,4 +1,5 @@
 $(call inherit-product, device/asus/grouper/full_grouper.mk)
+$(call inherit-product, vendor/my/common.mk)
 
 PRODUCT_NAME := my_grouper
 PRODUCT_DEVICE := grouper
