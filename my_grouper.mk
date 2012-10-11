@@ -9,5 +9,5 @@ PRODUCT_MANUFACTURER := asus
 
 PRODUCT_BUILD_PROPERTY_OVERRIDES += \
     PRODUCT_NAME=nakasi \
-    PRIVATE_BUILD_DESC="nakasi-user 4.1.1 JRO03D 402395 release-keys" \
-    BUILD_FINGERPRINT="google/nakasi/grouper:4.1.1/JRO03D/402395:user/release-keys"
+    PRIVATE_BUILD_DESC="nakasi-user 4.1.2 JZO54K 485486 release-keys" \
+    BUILD_FINGERPRINT="google/nakasi/grouper:4.1.2/JZO54K/485486:user/release-keys"
